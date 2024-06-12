@@ -1,1 +1,2 @@
 # YouTube_Clone_Project
+This web app is a clone of the site YouTube and is made with the basic knowledge of HTML5, CSS3 and JS. On here, you are able to search for videos, watch videos and see the comments for the videos. The goal of this project was to clone YouTube as closely and as accurately as possible to showcase my ability to take a wireframe or template and translate that into a functioning and visually identical web app.
